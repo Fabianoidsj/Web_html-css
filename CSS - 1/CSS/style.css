@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+#pg1{
+    background-color: #ffe4c4;
+    border: 1px solid black;
+}
+
+.cor{
+    background-color: #696969;
+}
+
+
+p{
+    font-family: 'Times New Roman', Arial, Courier New;
+}
+
+h1{
+    font-family: 'Algerian', Times, serif;
+}
+
+#principal{
+    text-align: center;
+}
+
+h2{
+    font-family: 'Algerian', Times, serif;
+}
+
+.subtitulo{
+    color: #aabbdd;
+}
+
+.tema{
+    color: #883366;
+}
+
+li{
+    font-size: x-large;
+}
+
+h3{
+    font-family: 'Algerian', Times, serif;
+}
+
+img{
+    width: 400px;
+    height: 250px;
+}
+
+h1:hover{
+    background-color: red;
+}
+
